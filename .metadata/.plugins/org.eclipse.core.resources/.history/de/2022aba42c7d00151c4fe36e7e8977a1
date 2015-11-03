@@ -1,0 +1,5 @@
+package com.jdata.db.jdata.core;
+
+public class ConnectionFactory {
+
+}

@@ -1,0 +1,7 @@
+package com.jmigration.db.jmigration;
+
+import junit.framework.TestCase;
+
+public class UtilityTest extends TestCase {
+
+}

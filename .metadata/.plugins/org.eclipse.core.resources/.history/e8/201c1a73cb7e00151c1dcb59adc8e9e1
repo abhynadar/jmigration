@@ -1,0 +1,33 @@
+package com.jdata.db.jdata;
+
+import java.sql.SQLException;
+
+import com.jdata.db.jdata.dao.VersionInfoDao;
+import junit.framework.Test;
+import junit.framework.TestCase;
+import junit.framework.TestSuite;
+
+public class VersionInfoDaoTest extends TestCase {
+	
+    public VersionInfoDaoTest( String testName )
+    {
+        super( testName );
+    }
+
+    public static Test suite()
+    {
+        return new TestSuite( VersionInfoDaoTest.class );
+    }
+    
+    public void testIsVersionInfoAvailable() {
+    	VersionInfoDao versionInfoDao = new VersionInfoDao();
+    	try {
+			assertTrue(versionInfoDao.isVersionInfoAvailable());
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+    }
+
+
+}

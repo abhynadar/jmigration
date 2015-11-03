@@ -1,0 +1,81 @@
+package com.jdata.db.jdata.dao;
+
+import java.sql.Connection;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+import com.jdata.db.jdata.core.AbstractDao;
+import com.jdata.db.jdata.core.ConnectionFactory;
+import com.jdata.db.jdata.helpers.ConfigHelper;
+
+public class VersionInfoDao extends AbstractDao {
+	private Connection connection;
+	private Statement statement;
+	
+	private String tableName = "VersionInfo";
+	
+	public String getTableName() {
+		return tableName;
+	}
+	
+	public boolean isVersionInfoAvailable() throws SQLException {
+		boolean retValue = false;
+		ConfigHelper config = new ConfigHelper();
+		ResultSet rs = null; 
+		
+		String sql = "SELECT count(*) AS rowCount FROM information_schema.tables WHERE table_schema = '" + config.getDBName() + "' AND table_name = '" + this.getTableName() + "'";
+		
+		try {
+			connection = ConnectionFactory.getConnection();
+			statement = connection.createStatement();
+			rs = statement.executeQuery(sql);
+			
+			while (rs.next()) {
+				if (rs.getInt("rowCount") > 0 ) {
+					retValue = true;
+				}
+			}
+		} finally {
+			this.close(rs);
+			this.close(statement);
+			this.close(connection);
+		}
+		
+		return retValue;
+	}
+	
+	public boolean createVersionInfoTable() throws SQLException {
+		boolean retValue = false;
+		ConfigHelper config = new ConfigHelper();
+		ResultSet rs = null; 
+		
+		String sql = "CREATE TABLE VersionInfo ( " +
+					"VersionInfoId INT NOT NULL AUTO_INCREMENT, " +
+					"VersionAppliedOn DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP, " +
+					"VersionFileName VARCHAR(500) NOT NULL, " +
+					"VersionDescription VARCHARA(500) NULL, " +
+					"VersionTagRunFor VARCHAR(50) NOT NULL, " +
+					"PRIMARY KEY (VersionInfoId) " +
+					"")";
+		
+		try {
+			connection = ConnectionFactory.getConnection();
+			statement = connection.createStatement();
+			rs = statement.executeQuery(sql);
+			
+			while (rs.next()) {
+				if (rs.getInt("rowCount") > 0 ) {
+					retValue = true;
+				}
+			}
+		} finally {
+			this.close(rs);
+			this.close(statement);
+			this.close(connection);
+		}
+		
+		return retValue;
+	}
+	
+}

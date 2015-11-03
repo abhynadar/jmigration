@@ -1,0 +1,6 @@
+com\jdata\db\jdata\dao\VersionInfoDao.class
+com\jdata\db\jdata\App.class
+com\jdata\db\jdata\helpers\ConfigHelper.class
+com\jdata\db\jdata\model\VersionInfo.class
+com\jdata\db\jdata\core\ConnectionFactory.class
+com\jdata\db\jdata\core\AbstractDao.class

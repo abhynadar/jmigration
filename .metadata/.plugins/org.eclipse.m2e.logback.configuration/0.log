@@ -1,0 +1,1362 @@
+2015-10-25 18:29:06,351 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\Data\Java\jmigration\jmigration\pom.xml
+2015-10-25 18:29:16,037 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jmigration.db:jmigration:0.0.1-SNAPSHOT @ E:\Data\Java\jmigration\jmigration\pom.xml.
+2015-10-25 18:29:20,388 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmigration/src/main/java
+2015-10-25 18:29:20,412 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jmigration/src/test/java
+2015-10-25 18:29:24,773 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 18 sec
+2015-10-25 18:29:26,235 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-25 18:29:26,237 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-25 18:29:26,245 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-25 18:29:26,246 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-25 22:02:19,399 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-25 22:02:19,401 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-25 22:02:19,406 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-25 22:02:19,411 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-25 22:03:03,900 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-10-25 22:03:16,300 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-25 22:03:16,301 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-25 22:25:29,288 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-25 22:25:29,289 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-25 22:25:29,292 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-25 22:25:29,292 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-25 22:25:32,209 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-25 22:25:32,210 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-25 22:25:32,213 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-25 22:25:32,214 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-25 22:29:24,235 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-25 22:29:24,236 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-25 22:29:24,239 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-25 22:29:24,240 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-25 22:30:26,188 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-25 22:30:26,361 [Worker-57] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-25 22:30:26,362 [Worker-57] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-26 22:55:14,877 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-26 22:55:15,757 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-26 22:55:15,760 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-26 22:59:17,919 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\Data\Java\jmigration\jdata\pom.xml
+2015-10-26 22:59:20,875 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jdata.db:jdata:0.0.1-SNAPSHOT @ E:\Data\Java\jmigration\jdata\pom.xml.
+2015-10-26 22:59:23,255 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jdata/src/main/java
+2015-10-26 22:59:23,292 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jdata/src/test/java
+2015-10-26 22:59:23,674 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2015-10-26 22:59:25,074 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 22:59:25,074 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-26 22:59:25,079 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 22:59:25,079 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-26 23:00:27,438 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jmigration.db:jmigration:0.0.1-SNAPSHOT @ E:\Data\Java\jmigration\jmigration\pom.xml.
+2015-10-26 23:00:29,372 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:00:29,373 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:00:29,377 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:00:29,377 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:00:30,840 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:00:30,840 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:00:30,843 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:00:30,843 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:01:03,411 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jmigration.db:jmigration:0.0.1-SNAPSHOT @ E:\Data\Java\jmigration\jmigration\pom.xml.
+2015-10-26 23:01:03,659 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:01:03,661 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:01:03,668 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:01:03,668 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:01:10,655 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-26 23:01:10,798 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-26 23:01:10,798 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-26 23:03:49,141 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-10-26 23:03:58,885 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jdata
+2015-10-26 23:03:58,885 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-26 23:05:42,156 [Worker-30] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jdata.db:jdata:0.0.1-SNAPSHOT @ E:\Data\Java\jmigration\jdata\pom.xml.
+2015-10-26 23:05:42,611 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:05:42,611 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-26 23:05:42,613 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:05:42,614 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-26 23:05:43,922 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:05:43,922 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-26 23:05:43,924 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:05:43,925 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-26 23:06:05,818 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-26 23:06:05,930 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jdata
+2015-10-26 23:06:05,931 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-26 23:09:11,554 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:09:11,554 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:09:11,557 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:09:11,557 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:09:12,653 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:09:12,654 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-26 23:09:12,667 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:09:12,667 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-26 23:09:12,695 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:09:12,695 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:09:12,697 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:09:12,697 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:09:49,849 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:09:49,850 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:09:49,852 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:09:49,853 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:10:08,996 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:10:08,997 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:10:08,999 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:10:09,000 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:10:30,987 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:10:30,988 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:10:30,990 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:10:30,990 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:10:51,212 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:10:51,213 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:10:51,215 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:10:51,216 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:11:07,220 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:11:07,221 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:11:07,223 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:11:07,223 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:11:37,022 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:11:37,022 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:11:37,024 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:11:37,024 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:12:18,106 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:12:18,106 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:12:18,110 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:12:18,111 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:12:29,536 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:12:29,537 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:12:29,539 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:12:29,539 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:12:47,840 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:12:47,841 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:12:47,843 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:12:47,843 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:13:17,596 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:13:17,596 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:13:17,598 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:13:17,598 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:14:18,388 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:14:18,390 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:14:18,391 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:14:18,392 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:15:16,639 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:15:16,639 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:15:16,640 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:15:16,640 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:15:38,014 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:15:38,015 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:15:38,016 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:15:38,017 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:18:07,257 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-26 23:18:07,335 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-26 23:18:07,336 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-26 23:18:37,590 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:18:37,590 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:18:37,592 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:18:37,592 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:18:38,624 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:18:38,624 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:18:38,626 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:18:38,627 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:18:55,114 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:18:55,114 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:18:55,116 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:18:55,116 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:19:06,573 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:19:06,573 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:19:06,574 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:19:06,574 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:19:32,429 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:19:32,430 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:19:32,432 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:19:32,432 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:19:54,875 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:19:54,875 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:19:54,878 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:19:54,880 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:20:06,664 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:20:06,664 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:20:06,665 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:20:06,666 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:24:11,585 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:24:11,585 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:24:11,587 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:24:11,587 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-26 23:24:22,780 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:24:22,780 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-26 23:24:22,782 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-26 23:24:22,782 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:19:36,268 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:19:36,314 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:19:36,317 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:19:36,318 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:20:01,574 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:20:01,574 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:20:01,576 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:20:01,576 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:20:50,321 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:20:50,322 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:20:50,327 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:20:50,327 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:21:03,290 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:21:03,290 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:21:03,292 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:21:03,292 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:21:22,784 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:21:22,784 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:21:22,785 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:21:22,786 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:21:52,804 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:21:52,804 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:21:52,806 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:21:52,806 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:22:04,430 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:22:04,431 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:22:04,432 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:22:04,433 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:22:46,177 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:22:46,177 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:22:46,181 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:22:46,181 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:23:07,057 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:23:07,057 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:23:07,058 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:23:07,059 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:23:33,676 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:23:33,676 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:23:33,679 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:23:33,679 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:24:15,801 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:24:15,801 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:24:15,802 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:24:15,802 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:24:23,281 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:24:23,297 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:24:23,300 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:24:23,300 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:25:00,039 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:25:00,040 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:25:00,042 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:25:00,042 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:25:34,352 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:25:34,352 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:25:34,354 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:25:34,354 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:25:47,044 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:25:47,044 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:25:47,045 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:25:47,046 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:26:03,399 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:26:03,399 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:26:03,402 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:26:03,403 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:26:23,459 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:26:23,460 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:26:23,461 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:26:23,461 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:26:45,722 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:26:45,723 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:26:45,725 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:26:45,725 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:27:02,793 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:27:02,793 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:27:02,794 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:27:02,795 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:27:23,396 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:27:23,397 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:27:23,399 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:27:23,399 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:28:31,290 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:28:31,290 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:28:31,291 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:28:31,292 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:28:46,895 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:28:46,896 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:28:46,898 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:28:46,898 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:29:08,552 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:29:08,552 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:29:08,555 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:29:08,555 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:29:21,190 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:29:21,190 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:29:21,192 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:29:21,193 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:29:58,546 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-27 09:29:58,674 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-27 09:29:58,674 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-27 09:32:39,475 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:32:39,475 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:32:39,479 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:32:39,479 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:32:40,509 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:32:40,510 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:32:40,513 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:32:40,514 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:33:45,045 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:33:45,046 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:33:45,048 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:33:45,048 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:37:50,325 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:37:50,325 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:37:50,326 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:37:50,327 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:38:01,614 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-27 09:38:01,640 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-27 09:38:01,641 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-27 09:39:31,131 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:39:31,131 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 09:39:31,132 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 09:39:31,133 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 09:40:25,812 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-27 09:40:25,841 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-27 09:40:25,841 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-27 11:30:10,336 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:30:10,336 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-27 11:30:10,337 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-27 11:30:10,338 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-27 11:30:44,811 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-27 11:30:44,849 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-27 11:30:44,849 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-28 09:50:53,631 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 09:50:53,805 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-28 09:50:53,817 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 09:50:53,818 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-28 09:50:59,081 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-28 09:50:59,305 [Worker-88] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-28 09:50:59,305 [Worker-88] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-28 09:51:33,107 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 09:51:33,107 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-28 09:51:33,108 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 09:51:33,109 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-28 09:56:39,344 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 09:56:39,344 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 09:56:39,346 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 09:56:39,346 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 09:56:55,581 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-28 09:56:55,673 [Worker-81] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jdata
+2015-10-28 09:56:55,673 [Worker-81] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-28 09:58:41,189 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 09:58:41,190 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 09:58:41,191 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 09:58:41,191 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 09:58:59,622 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 09:58:59,651 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 09:58:59,652 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 09:58:59,653 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 09:59:20,041 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 09:59:20,041 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 09:59:20,053 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 09:59:20,053 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:00:10,245 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:00:10,245 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:00:10,246 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:00:10,247 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:00:40,170 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:00:40,170 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:00:40,171 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:00:40,171 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:01:43,986 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:01:43,986 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:01:43,987 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:01:43,988 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:01:57,742 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:01:57,742 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:01:57,743 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:01:57,744 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:04:57,504 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:04:57,504 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:04:57,505 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:04:57,505 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:05:31,961 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:05:31,962 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:05:31,963 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:05:31,963 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:05:44,024 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:05:44,024 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:05:44,025 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:05:44,025 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:06:55,188 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:06:55,188 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:06:55,189 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:06:55,190 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:07:20,542 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:07:20,542 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:07:20,544 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:07:20,544 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:07:27,234 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:07:27,235 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:07:27,236 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:07:27,236 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:08:31,711 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:08:31,711 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:08:31,712 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:08:31,712 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:09:04,126 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:09:04,126 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:09:04,127 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:09:04,127 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:09:25,310 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:09:25,310 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:09:25,311 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:09:25,312 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:09:38,787 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:09:38,787 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:09:38,788 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:09:38,789 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:36:49,225 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:36:49,232 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:36:49,233 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:36:49,234 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:36:56,403 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:36:56,403 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:36:56,404 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:36:56,405 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:37:05,949 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:37:05,949 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:37:05,950 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:37:05,950 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:37:11,426 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:37:11,426 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:37:11,427 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:37:11,428 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:38:04,361 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:38:04,361 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:38:04,362 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:38:04,362 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:38:18,113 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:38:18,114 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:38:18,115 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:38:18,116 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:38:50,391 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:38:50,392 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:38:50,393 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:38:50,393 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:38:55,216 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:38:55,216 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:38:55,217 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:38:55,217 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:39:10,558 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:39:10,558 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:39:10,559 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:39:10,559 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:39:16,532 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:39:16,532 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:39:16,534 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:39:16,534 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:39:40,838 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:39:40,838 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:39:40,839 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:39:40,839 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:39:50,030 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:39:50,031 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:39:50,032 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:39:50,032 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:40:13,623 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:40:13,623 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:40:13,624 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:40:13,624 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-28 10:40:34,206 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:40:34,206 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-28 10:40:34,207 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-28 10:40:34,208 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-29 10:02:08,208 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:02:08,245 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-29 10:02:08,257 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:02:08,258 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-29 10:03:02,956 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:03:02,958 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-29 10:03:02,963 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:03:02,964 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-29 10:05:47,620 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:05:47,620 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-29 10:05:47,627 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:05:47,628 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-29 10:16:12,402 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:16:12,403 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-29 10:16:12,409 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:16:12,410 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-29 10:18:53,332 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:18:53,332 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-29 10:18:53,336 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:18:53,336 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-29 10:20:03,244 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:20:03,245 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-29 10:20:03,249 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:20:03,249 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-29 10:20:13,601 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:20:13,602 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-29 10:20:13,613 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:20:13,613 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-29 10:22:18,133 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:22:18,134 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-29 10:22:18,142 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:22:18,143 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-29 10:22:51,522 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:22:51,523 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-29 10:22:51,526 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-29 10:22:51,527 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 09:35:37,849 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 09:35:37,970 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 09:35:37,974 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 09:35:37,974 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 09:35:39,631 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 09:35:39,632 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 09:35:39,636 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 09:35:39,636 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 09:59:42,178 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 09:59:42,179 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 09:59:42,181 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 09:59:42,181 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 09:59:50,048 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 09:59:50,048 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 09:59:50,050 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 09:59:50,050 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 10:00:47,470 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:00:47,471 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 10:00:47,472 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:00:47,472 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 10:03:59,986 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:03:59,986 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 10:03:59,988 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:03:59,988 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 10:16:16,885 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:16:16,886 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 10:16:16,890 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:16:16,890 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 10:18:29,116 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:18:29,117 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 10:18:29,122 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:18:29,122 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 10:26:10,194 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:26:10,195 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 10:26:10,197 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:26:10,198 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 10:31:21,606 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:31:21,606 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 10:31:21,609 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:31:21,609 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 10:38:23,077 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:38:23,078 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 10:38:23,079 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:38:23,080 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 10:39:53,549 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:39:53,551 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 10:39:53,552 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:39:53,553 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 10:39:53,928 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:39:53,929 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 10:39:53,930 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:39:53,930 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 10:40:10,544 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-30 10:40:10,938 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-30 10:40:10,938 [Worker-26] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-30 10:40:59,651 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:40:59,652 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 10:40:59,654 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:40:59,654 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 10:44:51,880 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:44:51,880 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 10:44:51,881 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:44:51,882 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 10:44:52,900 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:44:52,901 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 10:44:52,904 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:44:52,904 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 10:45:40,913 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:45:40,914 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 10:45:40,915 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:45:40,915 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 10:45:41,986 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:45:41,987 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 10:45:41,989 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:45:41,990 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 10:49:29,209 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:49:29,209 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 10:49:29,211 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:49:29,211 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 10:49:53,863 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:49:53,864 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 10:49:53,865 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:49:53,865 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 10:54:32,282 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:54:32,282 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 10:54:32,284 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:54:32,284 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 10:55:04,208 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:55:04,208 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 10:55:04,210 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:55:04,210 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 10:55:43,082 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:55:43,083 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 10:55:43,085 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:55:43,085 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 10:56:27,116 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:56:27,117 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 10:56:27,118 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:56:27,118 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 10:58:07,841 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:58:07,843 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 10:58:07,845 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:58:07,846 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 10:58:32,230 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:58:32,231 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 10:58:32,232 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 10:58:32,233 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:00:00,693 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:00:00,694 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:00:00,695 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:00:00,695 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:01:46,123 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:01:46,123 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:01:46,124 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:01:46,125 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:01:57,620 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:01:57,620 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:01:57,621 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:01:57,622 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:02:08,725 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:02:08,725 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:02:08,726 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:02:08,726 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:02:31,304 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:02:31,305 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:02:31,306 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:02:31,307 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:02:49,583 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:02:49,583 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:02:49,584 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:02:49,585 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:03:25,021 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:03:25,021 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:03:25,022 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:03:25,022 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:03:49,023 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:03:49,024 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:03:49,026 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:03:49,026 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:04:21,899 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:04:21,899 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:04:21,901 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:04:21,901 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:27:04,006 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jmigration.db:jmigration:0.0.1-SNAPSHOT @ E:\Data\Java\jmigration\jmigration\pom.xml.
+2015-10-30 11:27:04,380 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:27:04,381 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:27:04,382 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:27:04,382 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:27:05,777 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:27:05,777 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:27:05,778 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:27:05,779 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:27:08,581 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-30 11:27:08,643 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-30 11:27:08,644 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-30 11:27:08,822 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:27:08,822 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:27:08,823 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:27:08,823 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:27:49,108 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jmigration.db:jmigration:0.0.1-SNAPSHOT @ E:\Data\Java\jmigration\jmigration\pom.xml.
+2015-10-30 11:27:51,102 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/jdata/db/jdata/0.0.1/jdata-0.0.1.pom
+2015-10-30 11:27:51,106 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.jdata.db:jdata:jar:0.0.1 is missing, no dependency information available
+2015-10-30 11:27:52,573 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/jdata/db/jdata/0.0.1/jdata-0.0.1.jar
+2015-10-30 11:27:52,676 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:27:52,676 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:27:52,677 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:27:52,677 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:27:55,930 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jdata.db:jdata:0.0.1 @ E:\Data\Java\jmigration\jdata\pom.xml.
+2015-10-30 11:27:56,064 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jmigration.db:jmigration:0.0.1-SNAPSHOT @ E:\Data\Java\jmigration\jmigration\pom.xml.
+2015-10-30 11:27:56,317 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:27:56,318 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 11:27:56,319 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:27:56,320 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 11:27:56,550 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:27:56,550 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:27:56,551 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:27:56,551 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:28:01,324 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-30 11:28:01,375 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jdata
+2015-10-30 11:28:01,375 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-30 11:29:58,139 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:29:58,140 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 11:29:58,141 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:29:58,141 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 11:29:59,186 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:29:59,188 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 11:29:59,190 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:29:59,191 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 11:30:59,572 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:30:59,573 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 11:30:59,574 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:30:59,574 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 11:31:12,681 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:31:12,681 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 11:31:12,682 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:31:12,682 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 11:31:41,796 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-30 11:31:41,838 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-30 11:31:41,838 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-30 11:33:51,940 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jdata.db:jdata:0.0.1 @ E:\Data\Java\jmigration\jdata\pom.xml.
+2015-10-30 11:33:52,069 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:33:52,070 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 11:33:52,071 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:33:52,071 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 11:33:53,244 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:33:53,245 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:33:53,247 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:33:53,248 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:34:15,684 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-30 11:34:15,732 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jdata
+2015-10-30 11:34:15,732 [Worker-45] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-30 11:34:41,199 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:34:41,200 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 11:34:41,201 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:34:41,201 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 11:34:49,692 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-30 11:34:49,755 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-30 11:34:49,755 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-30 11:36:22,260 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:36:22,261 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:36:22,261 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:36:22,261 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:36:28,381 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-30 11:36:28,445 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-30 11:36:28,445 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-30 11:36:28,693 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jmigration.db:jmigration:0.0.1-SNAPSHOT @ E:\Data\Java\jmigration\jmigration\pom.xml.
+2015-10-30 11:36:28,878 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:36:28,878 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:36:28,879 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:36:28,880 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:36:30,305 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:36:30,306 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:36:30,307 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:36:30,307 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:37:44,500 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jmigration.db:jmigration:0.0.1-SNAPSHOT @ E:\Data\Java\jmigration\jmigration\pom.xml.
+2015-10-30 11:37:44,703 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:37:44,704 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:37:44,704 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:37:44,704 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:37:46,095 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:37:46,095 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:37:46,095 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:37:46,096 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:37:53,152 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-30 11:37:53,192 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-30 11:37:53,192 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-30 11:39:53,741 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-30 11:39:53,741 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify install
+2015-10-30 11:40:34,979 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jdata
+2015-10-30 11:40:34,979 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify install
+2015-10-30 11:41:12,236 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jmigration.db:jmigration:0.0.1-SNAPSHOT @ E:\Data\Java\jmigration\jmigration\pom.xml.
+2015-10-30 11:41:12,351 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:41:12,351 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:41:12,352 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:41:12,352 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:41:13,491 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:41:13,492 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 11:41:13,493 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:41:13,493 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 11:41:13,672 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:41:13,672 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:41:13,673 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:41:13,673 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:41:17,572 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-30 11:41:17,614 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-30 11:41:17,614 [Worker-46] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-30 11:41:36,264 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jmigration.db:jmigration:0.0.1-SNAPSHOT @ E:\Data\Java\jmigration\jmigration\pom.xml.
+2015-10-30 11:41:36,452 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:41:36,453 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:41:36,454 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:41:36,454 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:41:37,903 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:41:37,904 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:41:37,905 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:41:37,905 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:41:40,820 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-30 11:41:40,867 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-30 11:41:40,867 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-30 11:42:01,916 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:42:01,917 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:42:01,918 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:42:01,919 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:43:34,951 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:43:34,951 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:43:34,952 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:43:34,952 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:43:35,971 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:43:35,972 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 11:43:35,973 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:43:35,974 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 11:44:13,871 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-30 11:44:13,912 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-30 11:44:13,912 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-30 11:45:44,579 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:45:44,580 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:45:44,581 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:45:44,581 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:45:47,819 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:45:47,819 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 11:45:47,820 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:45:47,820 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 11:47:00,020 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:47:00,021 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 11:47:00,022 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:47:00,022 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 11:47:01,032 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:47:01,032 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 11:47:01,033 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 11:47:01,033 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 11:47:07,914 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-30 11:47:07,955 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jdata
+2015-10-30 11:47:07,955 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify install
+2015-10-30 22:18:48,494 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 22:18:48,495 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 22:18:48,496 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 22:18:48,496 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 22:18:49,518 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 22:18:49,518 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 22:18:49,520 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 22:18:49,520 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 22:29:07,452 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 22:29:07,452 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 22:29:07,454 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 22:29:07,454 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 22:29:08,473 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 22:29:08,474 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 22:29:08,476 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 22:29:08,477 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 22:30:37,324 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 22:30:37,324 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 22:30:37,326 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 22:30:37,326 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 22:36:00,730 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 22:36:00,730 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 22:36:00,732 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 22:36:00,732 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 22:40:07,070 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 22:40:07,071 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 22:40:07,073 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 22:40:07,073 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 22:49:48,616 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 22:49:48,616 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 22:49:48,620 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 22:49:48,620 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:16:45,118 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:16:45,119 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:16:45,121 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:16:45,122 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:17:13,251 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:17:13,252 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 23:17:13,252 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:17:13,252 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 23:17:40,101 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:17:40,102 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:17:40,104 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:17:40,104 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:18:47,298 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:18:47,298 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:18:47,300 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:18:47,300 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:18:58,367 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:18:58,368 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:18:58,369 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:18:58,369 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:19:52,551 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:19:52,552 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:19:52,553 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:19:52,554 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:21:10,010 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:21:10,010 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:21:10,011 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:21:10,011 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:21:21,984 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:21:21,984 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:21:21,986 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:21:21,986 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:23:56,876 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:23:56,877 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:23:56,878 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:23:56,878 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:26:28,176 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:26:28,177 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:26:28,179 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:26:28,179 [Worker-156] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:31:38,240 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:31:38,240 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:31:38,241 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:31:38,241 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:32:33,141 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:32:33,142 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:32:33,143 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:32:33,143 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:32:53,600 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:32:53,600 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:32:53,602 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:32:53,602 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:32:59,547 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:32:59,548 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:32:59,548 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:32:59,548 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:33:34,476 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:33:34,476 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:33:34,477 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:33:34,477 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:37:12,006 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:37:12,006 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:37:12,007 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:37:12,007 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:37:41,326 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:37:41,326 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:37:41,327 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:37:41,327 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:38:23,544 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:38:23,544 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:38:23,545 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:38:23,546 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:40:54,318 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:40:54,319 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:40:54,320 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:40:54,320 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:41:00,501 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:41:00,501 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:41:00,503 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:41:00,503 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:41:35,986 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:41:35,987 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:41:35,988 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:41:35,989 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:41:36,042 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:41:36,043 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 23:41:36,044 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:41:36,044 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 23:41:37,073 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:41:37,074 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-30 23:41:37,076 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:41:37,076 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-30 23:41:44,371 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:41:44,371 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:41:44,373 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:41:44,374 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:49:28,092 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:49:28,092 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:49:28,093 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:49:28,094 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:50:03,534 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:50:03,534 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:50:03,535 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:50:03,536 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:50:21,081 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:50:21,081 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:50:21,083 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:50:21,083 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:51:04,374 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:51:04,374 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:51:04,375 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:51:04,375 [Worker-170] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:51:50,147 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:51:50,148 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:51:50,148 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:51:50,148 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:53:37,777 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:53:37,777 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:53:37,778 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:53:37,778 [Worker-169] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:54:39,423 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:54:39,423 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:54:39,424 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:54:39,424 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:59:41,451 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:59:41,451 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:59:41,453 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:59:41,454 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-30 23:59:51,239 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:59:51,240 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-30 23:59:51,241 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-30 23:59:51,241 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-31 00:00:13,643 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:00:13,643 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-31 00:00:13,644 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:00:13,644 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-31 00:10:31,131 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:10:31,132 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-31 00:10:31,134 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:10:31,134 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-31 00:19:43,642 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:19:43,642 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-31 00:19:43,643 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:19:43,644 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-31 00:19:50,882 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:19:50,882 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-31 00:19:50,883 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:19:50,883 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-31 00:24:30,279 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:24:30,279 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-31 00:24:30,280 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:24:30,280 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-31 00:25:03,635 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:25:03,635 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 00:25:03,636 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:25:03,636 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 00:25:04,706 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:25:04,706 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 00:25:04,708 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:25:04,709 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 00:26:23,557 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:26:23,557 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-31 00:26:23,559 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:26:23,559 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-31 00:26:45,896 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:26:45,896 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-31 00:26:45,898 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:26:45,898 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-31 00:27:53,768 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:27:53,769 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-31 00:27:53,771 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:27:53,772 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-31 00:28:03,875 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:28:03,875 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-31 00:28:03,876 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:28:03,876 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-31 00:30:11,937 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:30:11,937 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 00:30:11,938 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:30:11,938 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 00:30:50,410 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:30:50,410 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 00:30:50,412 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:30:50,412 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 00:34:16,673 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:34:16,674 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 00:34:16,674 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:34:16,674 [Worker-181] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 00:36:03,141 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:36:03,141 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 00:36:03,142 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 00:36:03,142 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 22:35:15,516 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:35:15,517 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 22:35:15,518 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:35:15,519 [Worker-190] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 22:35:49,382 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:35:49,382 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 22:35:49,384 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:35:49,384 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 22:38:42,110 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:38:42,110 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 22:38:42,112 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:38:42,112 [Worker-196] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 22:40:20,712 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:40:20,712 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-31 22:40:20,713 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:40:20,713 [Worker-199] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-31 22:42:18,001 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:42:18,002 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-31 22:42:18,002 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:42:18,002 [Worker-192] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-31 22:49:46,335 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:49:46,335 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 22:49:46,336 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:49:46,336 [Worker-201] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 22:51:34,089 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:51:34,090 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 22:51:34,092 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:51:34,092 [Worker-202] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 22:55:57,234 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:55:57,234 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-31 22:55:57,241 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:55:57,242 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-31 22:57:01,475 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:57:01,475 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 22:57:01,475 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:57:01,476 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 22:58:04,503 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:58:04,503 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 22:58:04,504 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:58:04,505 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 22:58:15,263 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:58:15,264 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 22:58:15,264 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:58:15,264 [Worker-207] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 22:59:34,422 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:59:34,423 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 22:59:34,424 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 22:59:34,424 [Worker-208] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 23:01:16,253 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:01:16,253 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 23:01:16,255 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:01:16,255 [Worker-209] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 23:01:32,220 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:01:32,220 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 23:01:32,221 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:01:32,221 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 23:01:35,922 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:01:35,922 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 23:01:35,923 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:01:35,923 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 23:02:41,054 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:02:41,054 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 23:02:41,056 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:02:41,056 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 23:17:41,093 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:17:41,093 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 23:17:41,094 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:17:41,094 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 23:18:26,908 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:18:26,908 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 23:18:26,909 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:18:26,910 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 23:19:02,930 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:19:02,931 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 23:19:02,933 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:19:02,933 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 23:19:13,347 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:19:13,347 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 23:19:13,348 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:19:13,348 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 23:28:05,452 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:28:05,453 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 23:28:05,454 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:28:05,454 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 23:36:22,176 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:36:22,176 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 23:36:22,177 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:36:22,177 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 23:37:29,319 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:37:29,319 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 23:37:29,320 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:37:29,320 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 23:38:01,481 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-31 23:38:01,537 [Worker-226] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-31 23:38:01,537 [Worker-226] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-31 23:39:00,421 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-31 23:39:00,468 [Worker-223] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jdata
+2015-10-31 23:39:00,468 [Worker-223] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify install
+2015-10-31 23:39:22,222 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-31 23:39:22,289 [Worker-229] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-31 23:39:22,290 [Worker-229] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-31 23:42:38,867 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:42:38,867 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 23:42:38,868 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:42:38,868 [Worker-220] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 23:43:20,552 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:43:20,553 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 23:43:20,554 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:43:20,554 [Worker-226] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 23:49:01,960 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:49:01,961 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 23:49:01,962 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:49:01,962 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 23:49:02,977 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:49:02,977 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-31 23:49:02,978 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:49:02,979 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-31 23:49:02,989 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:49:02,989 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\main\resources
+2015-10-31 23:49:02,991 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:49:02,991 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-10-31 23:50:16,718 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-31 23:50:16,787 [Worker-238] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-31 23:50:16,787 [Worker-238] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-10-31 23:54:10,821 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:54:10,821 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-31 23:54:10,821 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:54:10,821 [Worker-238] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-31 23:54:14,793 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:54:14,794 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-10-31 23:54:14,795 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-31 23:54:14,795 [Worker-237] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-10-31 23:54:30,381 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-31 23:54:30,426 [Worker-242] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jdata
+2015-10-31 23:54:30,427 [Worker-242] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify install
+2015-10-31 23:55:54,546 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-10-31 23:55:54,593 [Worker-238] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-10-31 23:55:54,593 [Worker-238] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-11-01 00:00:36,790 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:00:36,826 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-01 00:00:36,852 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:00:36,853 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-01 00:00:37,868 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:00:37,869 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-01 00:00:37,870 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:00:37,870 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-01 00:00:52,941 [Worker-253] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:00:52,942 [Worker-253] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-01 00:00:52,951 [Worker-253] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:00:52,952 [Worker-253] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-01 00:01:03,871 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:01:03,873 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-01 00:01:03,875 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:01:03,875 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-01 00:01:10,354 [Worker-253] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:01:10,355 [Worker-253] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-01 00:01:10,357 [Worker-253] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:01:10,358 [Worker-253] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-01 00:01:16,364 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:01:16,365 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-01 00:01:16,365 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:01:16,366 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-01 00:02:25,743 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:02:25,744 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-01 00:02:25,812 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:02:25,812 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-01 00:04:45,229 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-11-01 00:04:45,277 [Worker-259] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-11-01 00:04:45,277 [Worker-259] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-11-01 00:06:02,894 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:06:02,896 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-01 00:06:02,898 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:06:02,898 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-01 00:06:30,036 [Worker-253] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:06:30,038 [Worker-253] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-01 00:06:30,041 [Worker-253] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:06:30,041 [Worker-253] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-01 00:06:53,533 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:06:53,534 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-01 00:06:53,536 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:06:53,536 [Worker-254] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-01 00:09:32,299 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-11-01 00:09:32,349 [Worker-252] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-11-01 00:09:32,349 [Worker-252] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify
+2015-11-01 00:09:56,036 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:09:56,037 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-01 00:09:56,038 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:09:56,038 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-01 00:09:57,050 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:09:57,051 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-01 00:09:57,053 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:09:57,053 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-01 00:10:15,470 [Worker-260] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-11-01 00:10:15,470 [Worker-260] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify install
+2015-11-01 00:10:49,856 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:10:49,857 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-01 00:10:49,860 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:10:49,861 [Worker-257] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-01 00:10:50,911 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:10:50,912 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-01 00:10:50,913 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-01 00:10:50,914 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-03 08:45:52,775 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:45:52,788 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-03 08:45:52,799 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:45:52,799 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-03 08:46:52,688 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:46:52,689 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-11-03 08:46:52,691 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:46:52,716 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-11-03 08:46:52,755 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:46:52,761 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-03 08:46:52,763 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:46:52,763 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-03 08:47:22,495 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:47:22,498 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\main\resources
+2015-11-03 08:47:22,500 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:47:22,501 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-11-03 08:47:29,272 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-11-03 08:47:29,702 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jdata
+2015-11-03 08:47:29,703 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify install
+2015-11-03 08:50:15,697 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:50:15,700 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-03 08:50:15,703 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:50:15,703 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-11-03 08:50:35,117 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:50:35,118 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-03 08:50:35,123 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:50:35,123 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-11-03 08:50:43,483 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:50:43,484 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-03 08:50:43,487 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:50:43,487 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-11-03 08:50:49,588 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:50:49,588 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-03 08:50:49,591 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:50:49,592 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-11-03 08:51:42,876 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-11-03 08:51:42,928 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jdata
+2015-11-03 08:51:42,928 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify install
+2015-11-03 08:52:24,914 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jmigration.db:jmigration:0.0.1 @ E:\Data\Java\jmigration\jmigration\pom.xml.
+2015-11-03 08:52:25,469 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:52:25,469 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-03 08:52:25,470 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:52:25,471 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-03 08:52:41,683 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jmigration.db:jmigration:1.0.0 @ E:\Data\Java\jmigration\jmigration\pom.xml.
+2015-11-03 08:52:42,019 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:52:42,019 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-03 08:52:42,020 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:52:42,021 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-03 08:52:51,480 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jdata.db:jdata:1.0.0 @ E:\Data\Java\jmigration\jdata\pom.xml.
+2015-11-03 08:52:51,639 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jmigration.db:jmigration:1.0.0 @ E:\Data\Java\jmigration\jmigration\pom.xml.
+2015-11-03 08:52:52,172 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:52:52,172 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-03 08:52:52,173 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:52:52,174 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-11-03 08:52:52,722 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:52:52,723 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-03 08:52:52,725 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:52:52,725 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-03 08:52:56,469 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-11-03 08:52:56,515 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jdata
+2015-11-03 08:52:56,515 [Worker-14] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify install
+2015-11-03 08:53:11,408 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:53:11,409 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-03 08:53:11,411 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:53:11,411 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-11-03 08:53:49,462 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:53:49,463 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-03 08:53:49,465 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 08:53:49,465 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-03 09:00:02,027 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:00:02,027 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-03 09:00:02,028 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:00:02,029 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-03 09:00:33,468 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:00:33,468 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-03 09:00:33,471 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:00:33,472 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-03 09:00:54,273 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:00:54,273 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-03 09:00:54,274 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:00:54,275 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-03 09:02:48,174 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:02:48,175 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2015-11-03 09:02:48,177 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:02:48,177 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jdata\src\test\resources
+2015-11-03 09:07:39,968 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:07:39,969 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-03 09:07:39,971 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:07:39,971 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-03 09:07:47,361 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:07:47,361 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-03 09:07:47,362 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:07:47,362 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-03 09:08:10,307 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:08:10,308 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-03 09:08:10,309 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:08:10,309 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-03 09:08:43,897 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:08:43,898 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-03 09:08:43,899 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:08:43,899 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-03 09:13:06,498 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:13:06,499 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-03 09:13:06,501 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:13:06,502 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-03 09:14:53,603 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:14:53,603 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-03 09:14:53,605 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:14:53,605 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-03 09:15:25,085 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:15:25,085 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-03 09:15:25,086 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:15:25,086 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-03 09:17:24,214 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:17:24,215 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-03 09:17:24,219 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:17:24,219 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-03 09:18:13,123 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:18:13,125 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-03 09:18:13,127 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:18:13,127 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-03 09:18:22,635 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:18:22,638 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-03 09:18:22,641 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:18:22,642 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-03 09:19:46,691 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:19:46,692 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-03 09:19:46,694 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:19:46,694 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources
+2015-11-03 09:45:01,683 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-11-03 09:45:01,732 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\Data\Java\jmigration\jmigration
+2015-11-03 09:45:01,732 [Worker-27] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean verify install
+2015-11-03 09:45:32,926 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:45:32,928 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2015-11-03 09:45:32,933 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-03 09:45:32,934 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Data\Java\jmigration\jmigration\src\test\resources

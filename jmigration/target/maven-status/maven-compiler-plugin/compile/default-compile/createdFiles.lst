@@ -1,0 +1,7 @@
+com\jmigration\db\jmigration\App.class
+com\jmigration\db\jmigration\MigrationRunner.class
+com\jmigration\db\jmigration\core\Tags.class
+com\jmigration\db\jmigration\Migration.class
+com\jmigration\db\jmigration\core\Version.class
+com\jmigration\db\jmigration\JLogger.class
+com\jmigration\db\jmigration\Utility.class

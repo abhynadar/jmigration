@@ -1,0 +1,5 @@
+package com.jmigration.db.jmigration;
+
+public class Utility {
+
+}

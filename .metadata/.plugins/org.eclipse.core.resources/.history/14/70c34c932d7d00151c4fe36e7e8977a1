@@ -1,0 +1,7 @@
+package com.jdata.db.jdata;
+
+import junit.framework.TestCase;
+
+public class ConfigHelperTest extends TestCase {
+
+}

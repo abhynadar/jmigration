@@ -1,0 +1,79 @@
+package com.jmigration.db.jmigration;
+
+import java.util.List;
+
+import com.jdata.db.jdata.core.AbstractDao;
+import com.jdata.db.jdata.dao.VersionInfoDao;
+import com.jdata.db.jdata.model.VersionInfo;
+import com.jmigration.db.jmigration.core.Version;
+
+public abstract class Migration extends AbstractDao {
+	
+	Version version;
+	
+	public Migration() {
+		super();
+		this.version = migrationVersion();
+	}
+
+	JLogger logger = new JLogger();
+	
+	public final Boolean run(Boolean isUp, String className, List<String> tags) {
+		
+		Boolean returnValue = true;
+		String sql = "";
+		VersionInfoDao versionInfoDao = null;
+		
+		try {
+
+			// TODO : Get connection object
+			sql = isUp ? up() : down();
+			
+			logger.infoLog("Executing migration for tags %s - version number - %s and filename - %s", Utility.ToCsvString(tags), version.getVersion(), className);
+			logger.infoLog(sql);
+			
+			if (!sql.isEmpty()) {
+				VersionInfo versionInfo = new VersionInfo();
+				versionInfo.setVersionInfoId(version.getVersion());
+				versionInfo.setVersionFileName(className);
+				versionInfo.setVersionTagRunFor(Utility.ToCsvString(tags));
+				
+				versionInfoDao = new VersionInfoDao();
+				versionInfoDao.beginTransaction();
+				
+				this.executeUpdate(sql);
+				
+				if (isUp) {
+					versionInfoDao.createVersionInfo(versionInfo);
+				}
+				else {
+					versionInfoDao.deleteVersionInfo(version.getVersion());
+				}
+				versionInfoDao.commitTransaction();
+			}
+			
+			logger.infoLog("Successfully executed migration with version number - %s", version.getVersion());
+
+		} catch(Exception exception) {
+			if (versionInfoDao != null) {
+				versionInfoDao.rollbackTransaction();
+			}
+			returnValue = false;
+			exception.printStackTrace();
+			logger.errorLog(exception, "Exception occured when trying to execute migration with version number %s in class %s and sql - %s.", version.getVersion(), getClass().getName(), sql);
+		} finally {
+			if (versionInfoDao != null) {
+				versionInfoDao.close();
+			}
+		}
+		
+		return returnValue;
+	}
+	
+	public abstract String up();
+
+	public abstract String down();
+	
+	public abstract Version migrationVersion();
+		
+}

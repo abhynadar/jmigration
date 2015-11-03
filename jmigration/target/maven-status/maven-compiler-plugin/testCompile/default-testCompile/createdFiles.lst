@@ -1,0 +1,9 @@
+com\jmigration\db\jmigration\support\DummyMigration2.class
+com\jmigration\db\jmigration\LoggerTest.class
+com\jmigration\db\jmigration\MigrationTest.class
+com\jmigration\db\jmigration\AppTest.class
+com\jmigration\db\jmigration\support\DummyMigration1.class
+com\jmigration\db\jmigration\support\DummyMigrationQA.class
+com\jmigration\db\jmigration\VersionTest.class
+com\jmigration\db\jmigration\UtilityTest.class
+com\jmigration\db\jmigration\MigrationRunnerTest.class

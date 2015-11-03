@@ -1,0 +1,5 @@
+package com.jdata.db.jdata.helpers;
+
+public class ConfigHelper {
+
+}

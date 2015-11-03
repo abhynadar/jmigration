@@ -1,0 +1,16 @@
+package com.jdata.db.jdata.dao;
+
+import java.sql.Connection;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+public class VersionInfoDao {
+	private Connection connection;
+	private Statement statement;
+	
+	public boolean isVersionInfoAvailable() throws SQLException {
+		boolean retValue = false;
+		
+		return retValue;
+	}
+}

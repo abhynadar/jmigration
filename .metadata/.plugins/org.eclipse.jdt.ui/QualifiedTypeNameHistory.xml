@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.jmigration.db.jmigration.core.Version"/>
+<fullyQualifiedTypeName name="com.jmigration.db.jmigration.core.Tags"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="com.jdata.db.jdata.helpers.ConfigHelper"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.Statement"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.ws.policy.AssertionSet"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="com.jdata.db.jdata.core.ConnectionFactory"/>
+<fullyQualifiedTypeName name="com.jdata.db.jdata.model.VersionInfo"/>
+<fullyQualifiedTypeName name="com.jdata.db.jdata.dao.VersionInfoDao"/>
+<fullyQualifiedTypeName name="com.jdata.db.jdata.core.AbstractDao"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="java.util.Hashtable"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+</qualifiedTypeNameHistroy>
