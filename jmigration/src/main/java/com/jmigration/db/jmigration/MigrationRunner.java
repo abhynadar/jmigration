@@ -11,6 +11,7 @@ import java.util.Set;
 
 import org.reflections.Reflections;
 
+import com.jdata.db.jdata.core.ConnectionFactory;
 import com.jdata.db.jdata.dao.VersionInfoDao;
 import com.jmigration.db.jmigration.core.Tags;
 
@@ -18,15 +19,32 @@ public class MigrationRunner {
 	private String packageName = "com.jmigration.db";
 	public final static String ALL_ENV = ",ALL,";
 
-	public MigrationRunner() {
+	String unitTestDBIdentifier = "";
+	
+	public MigrationRunner(String unitTestDBIdentifier, boolean createDB) {
+		this.unitTestDBIdentifier = unitTestDBIdentifier;
+		
+		if (createDB) {
+			ConnectionFactory.CreateDatabase(unitTestDBIdentifier);
+			System.out.println("Created database");
+		}
+		
 		VersionInfoDao versionInfoDao = new VersionInfoDao();
+		versionInfoDao.setUnitTestDBIdentifier(unitTestDBIdentifier);
 		try {
 			if (!versionInfoDao.isVersionInfoAvailable()) {
 				versionInfoDao.createVersionInfoTable();
+				System.out.println("Created VersionInfo table");
 			}
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+		}
+	}
+	
+	public void close(boolean dropDB) {
+		if (dropDB) {
+			ConnectionFactory.DropDatabase(unitTestDBIdentifier);
 		}
 	}
 	
@@ -102,6 +120,7 @@ public class MigrationRunner {
 		Class migrationClass = Class.forName(className);
 		
 		Migration migration = (Migration) migrationClass.newInstance();
+		migration.setUnitTestDBIdentifier(unitTestDBIdentifier);
 		
 		return migration.run(isUp, className, tags);
 	}

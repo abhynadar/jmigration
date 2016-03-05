@@ -1,6 +1,0 @@
-#connection string properties
-DBUser = red
-DBPwd = red001
-DBDriverClass = com.mysql.jdbc.Driver
-DBUrl = jdbc:mysql://localhost/
-DBName = world

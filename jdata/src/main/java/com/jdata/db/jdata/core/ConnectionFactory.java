@@ -3,6 +3,7 @@ package com.jdata.db.jdata.core;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
+import java.sql.Statement;
 
 import com.jdata.db.jdata.helpers.ConfigHelper;
 
@@ -11,6 +12,7 @@ public class ConnectionFactory {
 	ConfigHelper config;
 	static Connection connection;
 	static boolean isTransactionInProgress = false;
+	static String unitTestDBIdentifier = "";
 	
 	private ConnectionFactory() {
 		try {
@@ -24,7 +26,7 @@ public class ConnectionFactory {
 	private Connection createConnection() {
 		try {
 			if (connection == null || (connection != null && connection.isClosed())) {
-				connection = DriverManager.getConnection(config.getDBUrl() + config.getDBName(), config.getDBUser(), config.getDBPwd());
+				connection = DriverManager.getConnection(config.getDBUrl() + config.getDBName() + unitTestDBIdentifier, config.getDBUser(), config.getDBPwd());
 			}
 		} catch (SQLException exception) {
 			exception.printStackTrace();
@@ -33,7 +35,9 @@ public class ConnectionFactory {
 		return connection;
 	}
 	
-	public static Connection getConnection() {
+	
+	public static Connection getConnection(String unitTestDBIdentifierToUse) {
+		unitTestDBIdentifier = unitTestDBIdentifierToUse;
 		if (instance == null) {
 			instance = new ConnectionFactory();
 		}
@@ -46,7 +50,7 @@ public class ConnectionFactory {
 				return;
 			}
 			if (connection == null) {
-				getConnection();
+				getConnection(unitTestDBIdentifier);
 			}
 			if (connection != null && !connection.isClosed()) {
 				connection.setAutoCommit(false);
@@ -99,4 +103,64 @@ public class ConnectionFactory {
 		}
 	}
 
+
+	
+	public static String GetFullDBName(String dbName) {
+		ConfigHelper config = new ConfigHelper();
+		return config.getDBName() + dbName;
+	}
+	
+	public static void CreateDatabase(String dbName) {
+		String sql = "CREATE DATABASE " + GetFullDBName(dbName);
+		ExecuteExclusiveStatement(sql);
+	}
+	
+	public static void DropDatabase(String dbName) {
+		String sql = "DROP DATABASE " + GetFullDBName(dbName);
+		ExecuteExclusiveStatement(sql);
+	}
+	
+	public static void ExecuteExclusiveStatement(String sql) {
+		Connection connection = null;
+		Statement statement = null;
+		try {
+			connection = CreateConnectionForDBCreation();
+			statement = connection.createStatement();
+			statement.executeUpdate(sql);
+		} catch (SQLException e1) {
+			e1.printStackTrace();
+		} finally {
+			if (statement != null) {
+				try {
+					statement.close();
+				} catch (SQLException e) {
+					e.printStackTrace();
+				}
+			}
+			if (connection != null) {
+				try {
+					connection.close();
+				} catch (SQLException e) {
+					e.printStackTrace();
+				}
+			}
+		}
+	}
+	
+	public static Connection CreateConnectionForDBCreation() {
+		ConfigHelper config = new ConfigHelper();
+		try {
+			Class.forName(config.getDBDriverClass());
+		} catch (ClassNotFoundException e) {
+			e.printStackTrace();
+		}
+		try {
+			return DriverManager.getConnection(config.getDBUrl(), config.getDBUser(), config.getDBPwd());
+		} catch (SQLException exception) {
+			exception.printStackTrace();
+		}
+		return null;
+	}
+	
+	
 }

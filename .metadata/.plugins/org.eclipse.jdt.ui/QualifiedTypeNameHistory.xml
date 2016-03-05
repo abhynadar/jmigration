@@ -11,11 +11,17 @@
 <fullyQualifiedTypeName name="com.sun.xml.internal.ws.policy.AssertionSet"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
-<fullyQualifiedTypeName name="com.jdata.db.jdata.core.ConnectionFactory"/>
 <fullyQualifiedTypeName name="com.jdata.db.jdata.model.VersionInfo"/>
 <fullyQualifiedTypeName name="com.jdata.db.jdata.dao.VersionInfoDao"/>
 <fullyQualifiedTypeName name="com.jdata.db.jdata.core.AbstractDao"/>
 <fullyQualifiedTypeName name="java.util.Calendar"/>
 <fullyQualifiedTypeName name="java.util.Hashtable"/>
 <fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.jdata.db.jdata.core.ConnectionFactory"/>
+<fullyQualifiedTypeName name="junit.framework.TestCase"/>
+<fullyQualifiedTypeName name="org.junit.Before"/>
+<fullyQualifiedTypeName name="org.junit.BeforeClass"/>
+<fullyQualifiedTypeName name="org.junit.AfterClass"/>
+<fullyQualifiedTypeName name="org.junit.Test"/>
 </qualifiedTypeNameHistroy>

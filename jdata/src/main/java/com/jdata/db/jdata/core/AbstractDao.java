@@ -9,6 +9,16 @@ public class AbstractDao {
 	Statement statement;
 	PreparedStatement preparedStatement;
 	
+	String unitTestDBIdentifier = "";
+	
+	public void setUnitTestDBIdentifier(String unitTestDBIdentifier) {
+		this.unitTestDBIdentifier = unitTestDBIdentifier;
+	}
+	
+	public String getUnitTestDBIdentifier() {
+		return this.unitTestDBIdentifier;
+	}
+	
 	public void beginTransaction() {
 		ConnectionFactory.beginTransaction();
 	}
@@ -23,18 +33,18 @@ public class AbstractDao {
 	}
 	
 	public PreparedStatement getPreparedStatement(String sql) throws SQLException {
-		preparedStatement = ConnectionFactory.getConnection().prepareStatement(sql);
+		preparedStatement = ConnectionFactory.getConnection(unitTestDBIdentifier).prepareStatement(sql);
 		return preparedStatement;
 	}
 	
 	public ResultSet executeQuery(String sql) throws SQLException {
-		statement = ConnectionFactory.getConnection().createStatement();
+		statement = ConnectionFactory.getConnection(unitTestDBIdentifier).createStatement();
 		return statement.executeQuery(sql);
 	}
 	
 	public void executeUpdate(String sql) {
 		try {
-			statement = ConnectionFactory.getConnection().createStatement();
+			statement = ConnectionFactory.getConnection(unitTestDBIdentifier).createStatement();
 			statement.executeUpdate(sql);
 		} catch (SQLException e1) {
 			e1.printStackTrace();

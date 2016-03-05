@@ -23,8 +23,8 @@ public class VersionInfoDao extends AbstractDao {
 	public boolean isVersionInfoAvailable() throws SQLException {
 		boolean retValue = false;
 		ResultSet rs = null; 
-		
-		String sql = "SELECT count(*) AS rowCount FROM information_schema.tables WHERE table_schema = '" + config.getDBName().toLowerCase() + "' AND table_name = '" + this.getTableName() + "'";
+		String schemaName = config.getDBName().toLowerCase() + this.getUnitTestDBIdentifier().toLowerCase();
+		String sql = "SELECT count(*) AS rowCount FROM information_schema.tables WHERE table_schema = '" + schemaName + "' AND table_name = '" + this.getTableName() + "'";
 		
 		try {
 			rs = this.executeQuery(sql);
@@ -68,15 +68,22 @@ public class VersionInfoDao extends AbstractDao {
 			PreparedStatement prepStatement = this.getPreparedStatement(sql);
 			prepStatement.setLong(1, versionInfoId);
 			rs = prepStatement.executeQuery();
-			versionInfo = new VersionInfo();
 			
 			while(rs.next()) {
+				versionInfo = new VersionInfo();
 				versionInfo.setVersionInfoId(rs.getLong("VersionInfoId"));
 				versionInfo.setVersionAppliedOn(rs.getDate("VersionAppliedOn"));
 				versionInfo.setVersionFileName(rs.getString("VersionFileName"));
 				versionInfo.setVersionDescription(rs.getString("VersionDescription"));
 				versionInfo.setVersionTagRunFor(rs.getString("VersionTagRunFor"));
 				break;
+			}
+			
+			if (versionInfo != null) {
+				Long versionId = versionInfo.getVersionInfoId();
+				if (versionId == 0 || versionId != versionInfoId) {
+					versionInfo = null;
+				}
 			}
 			
 		} finally {

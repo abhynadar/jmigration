@@ -26,9 +26,34 @@ public abstract class Migration extends AbstractDao {
 		
 		try {
 
-			sql = isUp ? up() : down();
-			
 			Long versionId = version.getVersion();
+			versionInfoDao = new VersionInfoDao();
+			versionInfoDao.setUnitTestDBIdentifier(this.getUnitTestDBIdentifier());
+			System.out.println(this.getUnitTestDBIdentifier());
+			
+			sql = isUp ? up() : down();
+			VersionInfo existingVersion = versionInfoDao.getVersionInfoById(versionId);
+			if (isUp) {
+				if (existingVersion != null) {
+					if (existingVersion.getVersionFileName().equalsIgnoreCase(className)) {
+						return true;
+					}
+					else {
+						logger.infoLog("Duplicate version number %s for file - %s", versionId, className);
+						throw new Exception(String.format("Duplicate version number %s for file - %s", versionId, className));
+					}
+				}
+			} else {
+				if (existingVersion != null) {
+					if (!existingVersion.getVersionFileName().equalsIgnoreCase(className)) {
+						logger.infoLog("Duplicate version number %s for file - %s", versionId, className);
+						throw new Exception(String.format("Duplicate version number %s for file - %s", versionId, className));
+					}
+				} else {
+					return true;
+				}
+			}
+			
 			
 			logger.infoLog("Executing migration %s for tags %s - version number - %s and filename - %s", isUp, Utility.ToCsvString(tags), versionId, className);
 			logger.infoLog(sql);
@@ -39,7 +64,6 @@ public abstract class Migration extends AbstractDao {
 				versionInfo.setVersionFileName(className);
 				versionInfo.setVersionTagRunFor(Utility.ToCsvString(tags));
 				
-				versionInfoDao = new VersionInfoDao();
 				versionInfoDao.beginTransaction();
 				
 				this.executeUpdate(sql);

@@ -1,5 +1,0 @@
-package com.jdata.db.jdata.dao;
-
-public class VersionInfoDao {
-
-}

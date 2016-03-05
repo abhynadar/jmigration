@@ -5,12 +5,18 @@ import java.util.Enumeration;
 import java.util.Hashtable;
 import java.util.List;
 
-import junit.framework.Test;
-import junit.framework.TestCase;
-import junit.framework.TestSuite;
+import org.junit.AfterClass;
+import org.junit.BeforeClass;
+import org.junit.Test;
+import static org.junit.Assert.*;
 
-public class MigrationRunnerTest extends TestCase {
 
+public class MigrationRunnerTest 
+{
+	static MigrationRunner runner = null;
+	static String testRunDBName = "test";
+
+/*	
 	public MigrationRunnerTest(String testName) {
 		super(testName);
 	}
@@ -19,9 +25,24 @@ public class MigrationRunnerTest extends TestCase {
     {
         return new TestSuite( MigrationRunnerTest.class );
     }
+*/ 
+	
+    @BeforeClass
+    public static void setUp() {
+    	runner = new MigrationRunner(testRunDBName, true);
+    }
     
+    @AfterClass
+    public static void tearDown() {
+    	if (runner != null) {
+    		runner.close(true);
+    	}
+    	runner = null;
+    }
+    
+    @Test
     public void testMigrationClassListing() {
-    	MigrationRunner runner = new MigrationRunner();
+    	//MigrationRunner runner = new MigrationRunner("");
     	List<String> classList = runner.getMigrationClassList();
     	assertEquals(3, classList.size());
     	assertEquals(true, classList.contains("com.jmigration.db.jmigration.support.DummyMigration1"));
@@ -29,8 +50,9 @@ public class MigrationRunnerTest extends TestCase {
     	assertEquals(true, classList.contains("com.jmigration.db.jmigration.support.DummyMigrationQA"));
     }
     
+    @Test
     public void testMigrationClassListingByTagsForAll() {
-    	MigrationRunner runner = new MigrationRunner();
+    	//MigrationRunner runner = new MigrationRunner("");
     	List<String> tags = new ArrayList<String>();
     	tags.add("ALL");
 
@@ -56,8 +78,9 @@ public class MigrationRunnerTest extends TestCase {
     	assertEquals(true, classList.contains("com.jmigration.db.jmigration.support.DummyMigrationQA"));
     }
 
+    @Test
     public void testMigrationClassListingByTagsForDEV() {
-    	MigrationRunner runner = new MigrationRunner();
+    	//MigrationRunner runner = new MigrationRunner("");
     	List<String> tags = new ArrayList<String>();
     	tags.add("DEV");
     	
@@ -82,8 +105,9 @@ public class MigrationRunnerTest extends TestCase {
     	assertEquals(true, classList.contains("com.jmigration.db.jmigration.support.DummyMigration2"));
     }
 
+    @Test
     public void testMigrationClassListingByTagsForQA() {
-    	MigrationRunner runner = new MigrationRunner();
+    	//MigrationRunner runner = new MigrationRunner("");
     	List<String> tags = new ArrayList<String>();
     	tags.add("QA");
 
@@ -108,8 +132,9 @@ public class MigrationRunnerTest extends TestCase {
     	assertEquals(true, classList.contains("com.jmigration.db.jmigration.support.DummyMigrationQA"));
     }
 
+    @Test
     public void testMigrationClassListingByTagsForDEVAndQA() {
-    	MigrationRunner runner = new MigrationRunner();
+    	//MigrationRunner runner = new MigrationRunner("");
     	List<String> tags = new ArrayList<String>();
     	tags.add("DEV");
     	tags.add("QA");
@@ -155,8 +180,9 @@ public class MigrationRunnerTest extends TestCase {
     }
     */
 
+    @Test
     public void testScanAndRunMigrationUpByTagsDEV(){
-    	MigrationRunner runner = new MigrationRunner();
+    	//MigrationRunner runner = new MigrationRunner("");
     	List<String> tags = new ArrayList<String>();
     	tags.add("DEV");
 			try {
@@ -173,8 +199,9 @@ public class MigrationRunnerTest extends TestCase {
 			}
     }
     
+    @Test
     public void testScanAndRunMigrationDownByTagsDEV(){
-    	MigrationRunner runner = new MigrationRunner();
+    	//MigrationRunner runner = new MigrationRunner("");
     	List<String> tags = new ArrayList<String>();
     	tags.add("DEV");
 			try {
